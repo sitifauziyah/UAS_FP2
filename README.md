@@ -1,4 +1,4 @@
-### [Aplikasi Perekaman Toko Buku](http://datapegawaiziyah.herokuapp.com/) klik
+### [Aplikasi Perekaman Data Pegawai](http://datapegawaiziyah.herokuapp.com/) klik
 ### [Diagram dan penjelasan](https://drive.google.com/drive/folders/1mtDRd1IYpUt6qCdcZ7CK6ijHjzZyEaW2?usp=sharing) klik
 #### By
 - Nama  : Siti Fauziyah
