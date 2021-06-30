@@ -1,5 +1,5 @@
-### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
-### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
+### [Aplikasi Perekaman Toko Buku](http://datapegawaiziyah.herokuapp.com/) klik
+### [Diagram dan penjelasan](https://drive.google.com/drive/folders/1mtDRd1IYpUt6qCdcZ7CK6ijHjzZyEaW2?usp=sharing) klik
 #### By
 - Nama  : Siti Fauziyah
 - NIM   : 18090019
